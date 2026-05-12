@@ -1,78 +1,147 @@
 {
-    "time": "11:45:00",
+    "time": "13:56:49",
     "summary": {
         "total": 209,
-        "positive": 35,
-        "negative": 174,
+        "positive": 31,
+        "negative": 178,
         "unchanged": 0
     },
     "market_view": {
         "open_high": 23,
-        "open_low": 7,
-        "pdh_break": 8,
-        "pdl_break": 113,
-        "volume_spike": 0
+        "open_low": 6,
+        "pdh_break": 6,
+        "pdl_break": 143,
+        "volume_spike": 1,
+        "open_low_pdh": 2,
+        "open_high_pdl": 18,
+        "mysetup_open_low": 2,
+        "mysetup_open_high": 8,
+        "rsi_strong": 10,
+        "rsi_weak": 109,
+        "rsi_neutral": 90
     },
     "top_gainers": [
         {
             "symbol": "OIL",
-            "change": 9.09,
-            "ltp": 497.45,
-            "rsi": 68.8
+            "change": 8.3,
+            "ltp": 493.85,
+            "rsi": 55.5
         },
         {
             "symbol": "ONGC",
-            "change": 5.66,
-            "ltp": 296.9,
-            "rsi": 57.0
-        },
-        {
-            "symbol": "HINDZINC",
-            "change": 3.58,
-            "ltp": 651.6,
-            "rsi": 59.5
-        },
-        {
-            "symbol": "VEDL",
-            "change": 3.15,
-            "ltp": 307.8,
-            "rsi": 61.4
+            "change": 5.62,
+            "ltp": 296.8,
+            "rsi": 56.3
         },
         {
             "symbol": "BIOCON",
-            "change": 3.14,
-            "ltp": 402.7,
-            "rsi": 58.9
+            "change": 3.12,
+            "ltp": 402.65,
+            "rsi": 60.3
+        },
+        {
+            "symbol": "HINDZINC",
+            "change": 2.67,
+            "ltp": 645.9,
+            "rsi": 38.8
+        },
+        {
+            "symbol": "GODREJCP",
+            "change": 2.59,
+            "ltp": 1037.1,
+            "rsi": 61.9
+        },
+        {
+            "symbol": "VEDL",
+            "change": 2.31,
+            "ltp": 305.3,
+            "rsi": 45.6
         },
         {
             "symbol": "PIDILITIND",
-            "change": 2.63,
-            "ltp": 1475.0,
-            "rsi": 68.1
+            "change": 2.26,
+            "ltp": 1469.7,
+            "rsi": 49.1
         },
         {
             "symbol": "HINDALCO",
-            "change": 2.44,
-            "ltp": 1048.5,
-            "rsi": 55.9
+            "change": 1.75,
+            "ltp": 1041.4,
+            "rsi": 46.8
         },
         {
-            "symbol": "DALBHARAT",
-            "change": 1.43,
-            "ltp": 1797.5,
-            "rsi": 70.3
+            "symbol": "CANBK",
+            "change": 1.17,
+            "ltp": 130.94,
+            "rsi": 56.3
         },
         {
-            "symbol": "GODFRYPHLP",
-            "change": 1.29,
-            "ltp": 2423.0,
-            "rsi": 61.3
+            "symbol": "AUROPHARMA",
+            "change": 1.15,
+            "ltp": 1503.7,
+            "rsi": 65.8
+        }
+    ],
+    "top_losers": [
+        {
+            "symbol": "JSWENERGY",
+            "change": -6.05,
+            "ltp": 522.95,
+            "rsi": 43.7
         },
         {
-            "symbol": "NMDC",
-            "change": 1.27,
-            "ltp": 87.89,
-            "rsi": 51.4
+            "symbol": "KAYNES",
+            "change": -5.74,
+            "ltp": 4114.0,
+            "rsi": 31.7
+        },
+        {
+            "symbol": "ADANIGREEN",
+            "change": -5.38,
+            "ltp": 1313.1,
+            "rsi": 22.1
+        },
+        {
+            "symbol": "UPL",
+            "change": -4.9,
+            "ltp": 636.25,
+            "rsi": 29.7
+        },
+        {
+            "symbol": "KALYANKJIL",
+            "change": -4.7,
+            "ltp": 367.1,
+            "rsi": 38.4
+        },
+        {
+            "symbol": "PREMIERENE",
+            "change": -4.63,
+            "ltp": 957.3,
+            "rsi": 21.4
+        },
+        {
+            "symbol": "LTM",
+            "change": -4.6,
+            "ltp": 4152.0,
+            "rsi": 39.3
+        },
+        {
+            "symbol": "ANGELONE",
+            "change": -4.56,
+            "ltp": 302.75,
+            "rsi": 34.5
+        },
+        {
+            "symbol": "ADANIENSOL",
+            "change": -4.5,
+            "ltp": 1280.1,
+            "rsi": 46.9
+        },
+        {
+            "symbol": "DIXON",
+            "change": -4.49,
+            "ltp": 10288.0,
+            "rsi": 32.9
         }
     ]
 }
