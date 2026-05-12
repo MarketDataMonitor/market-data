@@ -1,26 +1,26 @@
 {
-    "time": "12/05/2026 03:36:06 PM",
+    "time": "12/05/2026 10:16:48 AM",
     "summary": {
-        "positive": null,
-        "negative": null,
-        "unchanged": null,
-        "total": null
+        "positive": 0,
+        "negative": 0,
+        "unchanged": 0,
+        "total": 0
     },
     "rsi_view": {
-        "strong": null,
-        "weak": null,
-        "neutral": null
+        "strong": 0,
+        "weak": 0,
+        "neutral": 0
     },
     "market_view": {
-        "pdh_break": null,
-        "open_low": null,
-        "open_low_pdh": null,
-        "mysetup_low": null,
-        "pdl_break": null,
-        "open_high": null,
-        "open_high_pdl": null,
-        "mysetup_high": null,
-        "volume_spike": null
+        "pdh_break": 0,
+        "open_low": 0,
+        "open_low_pdh": 0,
+        "mysetup_low": 0,
+        "pdl_break": 0,
+        "open_high": 0,
+        "open_high_pdl": 0,
+        "mysetup_high": 0,
+        "volume_spike": 0
     },
     "top_gainers": [
         {
