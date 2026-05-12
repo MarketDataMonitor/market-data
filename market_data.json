@@ -1,0 +1,78 @@
+{
+    "time": "11:45:00",
+    "summary": {
+        "total": 209,
+        "positive": 35,
+        "negative": 174,
+        "unchanged": 0
+    },
+    "market_view": {
+        "open_high": 23,
+        "open_low": 7,
+        "pdh_break": 8,
+        "pdl_break": 113,
+        "volume_spike": 0
+    },
+    "top_gainers": [
+        {
+            "symbol": "OIL",
+            "change": 9.09,
+            "ltp": 497.45,
+            "rsi": 68.8
+        },
+        {
+            "symbol": "ONGC",
+            "change": 5.66,
+            "ltp": 296.9,
+            "rsi": 57.0
+        },
+        {
+            "symbol": "HINDZINC",
+            "change": 3.58,
+            "ltp": 651.6,
+            "rsi": 59.5
+        },
+        {
+            "symbol": "VEDL",
+            "change": 3.15,
+            "ltp": 307.8,
+            "rsi": 61.4
+        },
+        {
+            "symbol": "BIOCON",
+            "change": 3.14,
+            "ltp": 402.7,
+            "rsi": 58.9
+        },
+        {
+            "symbol": "PIDILITIND",
+            "change": 2.63,
+            "ltp": 1475.0,
+            "rsi": 68.1
+        },
+        {
+            "symbol": "HINDALCO",
+            "change": 2.44,
+            "ltp": 1048.5,
+            "rsi": 55.9
+        },
+        {
+            "symbol": "DALBHARAT",
+            "change": 1.43,
+            "ltp": 1797.5,
+            "rsi": 70.3
+        },
+        {
+            "symbol": "GODFRYPHLP",
+            "change": 1.29,
+            "ltp": 2423.0,
+            "rsi": 61.3
+        },
+        {
+            "symbol": "NMDC",
+            "change": 1.27,
+            "ltp": 87.89,
+            "rsi": 51.4
+        }
+    ]
+}
