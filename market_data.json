@@ -25,125 +25,125 @@
     "top_gainers": [
         {
             "symbol": "OIL",
-            "ltp": "490.85",
-            "change": 7.64,
-            "rsi": "44.2"
+            "ltp": "491.5",
+            "change": 7.79,
+            "rsi": "45"
         },
         {
             "symbol": "ONGC",
-            "ltp": "295.05",
-            "change": 5.0,
-            "rsi": "39.6"
+            "ltp": "295.1",
+            "change": 5.02,
+            "rsi": "39.2"
         },
         {
             "symbol": "BIOCON",
-            "ltp": "401.7",
-            "change": 2.88,
-            "rsi": "49.3"
+            "ltp": "401.5",
+            "change": 2.83,
+            "rsi": "49.5"
         },
         {
             "symbol": "VEDL",
-            "ltp": "304.2",
-            "change": 1.94,
-            "rsi": "47.4"
-        },
-        {
-            "symbol": "GODREJCP",
-            "ltp": "1030.1",
-            "change": 1.9,
-            "rsi": "45.7"
+            "ltp": "304.4",
+            "change": 2.01,
+            "rsi": "47"
         },
         {
             "symbol": "HINDZINC",
-            "ltp": "639.5",
-            "change": 1.65,
-            "rsi": "29"
+            "ltp": "641.6",
+            "change": 1.99,
+            "rsi": "35.3"
+        },
+        {
+            "symbol": "GODREJCP",
+            "ltp": "1030.3",
+            "change": 1.92,
+            "rsi": "46.3"
         },
         {
             "symbol": "HINDALCO",
-            "ltp": "1040",
-            "change": 1.61,
-            "rsi": "44.7"
+            "ltp": "1041.6",
+            "change": 1.77,
+            "rsi": "51.6"
         },
         {
             "symbol": "PIDILITIND",
-            "ltp": "1451.5",
-            "change": 0.99,
-            "rsi": "23.7"
+            "ltp": "1453.8",
+            "change": 1.16,
+            "rsi": "28.2"
         },
         {
             "symbol": "DALBHARAT",
-            "ltp": "1784.4",
-            "change": 0.69,
-            "rsi": "40.5"
+            "ltp": "1785.4",
+            "change": 0.74,
+            "rsi": "44.8"
         },
         {
-            "symbol": "CANBK",
-            "ltp": "129.8",
-            "change": 0.29,
-            "rsi": "36.2"
+            "symbol": "NATIONALUM",
+            "ltp": "394.8",
+            "change": 0.45,
+            "rsi": "41.5"
         }
     ],
     "top_losers": [
         {
-            "symbol": "COCHINSHIP",
-            "ltp": "1615",
-            "change": -5.91,
+            "symbol": "DIXON",
+            "ltp": "10103",
+            "change": -6.21,
             "rsi": "20"
         },
         {
-            "symbol": "DIXON",
-            "ltp": "10150",
-            "change": -5.77,
-            "rsi": "23.7"
+            "symbol": "COCHINSHIP",
+            "ltp": "1615.9",
+            "change": -5.86,
+            "rsi": "18.8"
         },
         {
             "symbol": "LODHA",
-            "ltp": "878.3",
-            "change": -5.67,
-            "rsi": "22.1"
+            "ltp": "879.25",
+            "change": -5.57,
+            "rsi": "21"
         },
         {
             "symbol": "PRESTIGE",
-            "ltp": "1380",
-            "change": -5.19,
-            "rsi": "28.4"
-        },
-        {
-            "symbol": "BDL",
-            "ltp": "1331.4",
-            "change": -4.99,
-            "rsi": "27.1"
-        },
-        {
-            "symbol": "MOTHERSON",
-            "ltp": "124.04",
-            "change": -4.8,
-            "rsi": "30.2"
-        },
-        {
-            "symbol": "MAZDOCK",
-            "ltp": "2444",
-            "change": -4.75,
-            "rsi": "22.3"
+            "ltp": "1381.6",
+            "change": -5.08,
+            "rsi": "27.4"
         },
         {
             "symbol": "LTF",
-            "ltp": "281.05",
-            "change": -4.73,
-            "rsi": "39.3"
+            "ltp": "280.1",
+            "change": -5.05,
+            "rsi": "31.7"
+        },
+        {
+            "symbol": "BDL",
+            "ltp": "1331.6",
+            "change": -4.97,
+            "rsi": "25.4"
+        },
+        {
+            "symbol": "SHRIRAMFIN",
+            "ltp": "928.35",
+            "change": -4.88,
+            "rsi": "27"
+        },
+        {
+            "symbol": "MOTHERSON",
+            "ltp": "124",
+            "change": -4.83,
+            "rsi": "27.6"
         },
         {
             "symbol": "ADANIPORTS",
             "ltp": "1684.2",
             "change": -4.7,
-            "rsi": "30.3"
+            "rsi": "27.2"
         },
         {
-            "symbol": "SHRIRAMFIN",
-            "ltp": "930.3",
-            "change": -4.68,
-            "rsi": "30.4"
+            "symbol": "INOXWIND",
+            "ltp": "95.21",
+            "change": -4.63,
+            "rsi": "23.7"
         }
     ],
     "open_high_sheet": [
